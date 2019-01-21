@@ -28,8 +28,9 @@ let vehicle = prompt('What is your favorite type of vehicle? (e.g. car, canoe, e
 let vehiclePart = prompt('Name a part of your named vehicle.');
 
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
-let parking = prompt('Where are you parking your vehicle?')
+let parking = prompt('Where are you parking your vehicle?');
 // TODO: A variable named "precious" for a precious object.
+let precious = prompt('Name something that is considered precious.');
 
 // TODO: A variable named "noiseMaker" for something that makes a sound.
 let noiseMaker = prompt('Name a loud noise.');
