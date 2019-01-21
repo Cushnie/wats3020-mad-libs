@@ -11,7 +11,7 @@
 // TODO: Write a prompt statement like the one below for each of the
 // variables listed.
 
-let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).,'Empress');
+let honorific = prompt('Please enter an honorific title','Empress');
 
 // Using the same prompt() command, populate the following variables:
 //
